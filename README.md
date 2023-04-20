@@ -48,7 +48,8 @@ Il suffit de vous laisser guider par les instructions qui s’afficheront.
 
 
 Certaines fonctionnalités ont en effet été ajoutées, permettant à l’utilisateur (s’il le souhaite) de :
-- Afficher la matrice du fichier modifié et contenant le supernoeud - Afficher le tableau de listes
+- Afficher la matrice du fichier modifié et contenant le supernoeud 
+- Afficher le tableau de listes
 - Afficher le tableau de probabilités initialisées
 - Choisir une valeur particulière pour epsilon
 - Afficher le nouveau tableau de probabilités après les mises à jour
