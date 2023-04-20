@@ -26,6 +26,8 @@ Il suffit ensuite de vous laisser guider par les instructions qui s’afficheron
 - Afficher le tableau de probabilités initialisé
 - Choisir une valeur particulière pour epsilon
 - Afficher le nouveau tableau de probabilités après les mises à jour
+
+
 Par défaut, le nombre de mises à jour a été fixé à 20. C’est en effet une valeur qui permet d'avoir un résultat assez précis, et dont le temps d’exécution est raisonnable.
 A la fin de l’exécution, l’affichage des x pages ayant le meilleur PageRank, avec la valeur associée, s’affiche.
 
