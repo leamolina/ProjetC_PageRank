@@ -1,0 +1,4 @@
+Marseille|Lyon|StBrice|Neuilly|Paris
+StBrice|Marseille|Lyon|Paris
+Paris|Marseille|StBrice|Lyon
+Lyon|StBrice|Marseille|Paris
