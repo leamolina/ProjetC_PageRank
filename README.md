@@ -39,10 +39,14 @@ Puis, entrez (toujours dans le terminal) :
 Avec :
 - k le nombre de mises à jour du tableau de probabilités. Nous vous conseillons de
 choisir une valeur de k comprise entre 20 et 30.
+
+
 Au début de l’exécution du programme, vous aurez la possibilité d’entrer le nom du fichier texte contenant la matrice adjacente et les probabilités censées être obtenues. 
 Si ce fichier n’est pas dans le dossier, vous pouvez écrire directement son chemin absolu.
 Tout comme le mode normal, de nombreuses options vous seront proposées. 
 Il suffit de vous laisser guider par les instructions qui s’afficheront. 
+
+
 Certaines fonctionnalités ont en effet été ajoutées, permettant à l’utilisateur (s’il le souhaite) de :
 - Afficher la matrice du fichier modifié et contenant le supernoeud - Afficher le tableau de listes
 - Afficher le tableau de probabilités initialisées
